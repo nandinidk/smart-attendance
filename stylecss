@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #f2f2f2;
+}
+video, canvas {
+  border: 2px solid #000;
+  margin-top: 20px;
+}
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
